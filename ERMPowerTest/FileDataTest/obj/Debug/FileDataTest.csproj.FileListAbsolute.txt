@@ -1,0 +1,16 @@
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\bin\Debug\FileDataTest.dll
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\bin\Debug\FileDataTest.pdb
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\bin\Debug\ConsoleApplication1.exe
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\bin\Debug\ConsoleApplication1.pdb
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\obj\Debug\FileDataTest.csprojResolveAssemblyReference.cache
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\obj\Debug\FileDataTest.dll
+C:\Nirasha\Test\ConsoleApplication1\FileDataTest\obj\Debug\FileDataTest.pdb
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\bin\Debug\FileDataTest.dll
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\bin\Debug\FileDataTest.pdb
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\bin\Debug\ERMPowerTest.exe
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\bin\Debug\ERMPowerTest.pdb
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\obj\Debug\FileDataTest.csprojResolveAssemblyReference.cache
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\obj\Debug\FileDataTest.dll
+C:\Nirasha\Test\ERMPowerTest\FileDataTest\obj\Debug\FileDataTest.pdb
